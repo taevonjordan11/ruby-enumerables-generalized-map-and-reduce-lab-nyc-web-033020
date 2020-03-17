@@ -1,3 +1,4 @@
+# Your Code Here
 
 def map(array)
     #map returns a new array of manipulated elements
@@ -8,5 +9,5 @@ def map(array)
       i +=1
     end
     new
-  
+  end
  
